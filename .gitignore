@@ -74,4 +74,8 @@ typings/
 # Service worker
 sw.*
 
+
+# Netlify
+assets
+
 dist

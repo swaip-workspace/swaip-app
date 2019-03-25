@@ -2,6 +2,7 @@
 backend:
  name: github
  repo: "swaip-workspace/swaip-app"
+ base_url: https://optimistic-newton-a00e2e.netlify.com
 
 site_url: https://optimistic-newton-a00e2e.netlify.com
 display_url: https://optimistic-newton-a00e2e.netlify.com
