@@ -1,7 +1,10 @@
 
 backend:
-  name: swaip-app
+ name: github
+ repo: "swaip-workspace/swaip-app"
 
+site_url: https://optimistic-newton-a00e2e.netlify.com
+display_url: https://optimistic-newton-a00e2e.netlify.com
 publish_mode: editorial_workflow
 media_folder: assets/uploads
 
