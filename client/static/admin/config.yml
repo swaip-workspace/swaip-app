@@ -2,9 +2,10 @@
 backend:
  name: github
  repo: "swaip-workspace/swaip-app"
- base_url: https://optimistic-newton-a00e2e.netlify.com
+ base_url: https://your.server.com # Path to ext auth provider
 
-
+site_url: https://optimistic-newton-a00e2e.netlify.com
+display_url: https://optimistic-newton-a00e2e.netlify.com
 publish_mode: editorial_workflow
 media_folder: images/uploads
 
