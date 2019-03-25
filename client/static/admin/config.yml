@@ -1,9 +1,9 @@
 
 backend:
  name: git-gateway
-  accept_roles: #optional - accepts all users if left out
-    - admin
-    - editor
+ accept_roles:
+  - admin
+  - editor
  repo: "swaip-workspace/swaip-app"
  base_url: "https://api.netlify.com" # Path to ext auth provider
 
