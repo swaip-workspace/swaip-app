@@ -77,5 +77,6 @@ sw.*
 
 # Netlify
 assets
+uploads
 
 dist
